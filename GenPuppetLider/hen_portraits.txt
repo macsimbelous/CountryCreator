@@ -1,0 +1,12 @@
+gfx/leaders/HEN/HEN_land_01.dds
+gfx/leaders/HEN/HEN_land_02.dds
+gfx/leaders/HEN/HEN_land_03.dds
+gfx/leaders/HEN/HEN_land_04.dds
+gfx/leaders/HEN/HEN_land_05.dds
+gfx/leaders/HEN/HEN_land_06.dds
+gfx/leaders/HEN/HEN_naval_01.dds
+gfx/leaders/HEN/HEN_naval_02.dds
+gfx/leaders/HEN/HEN_naval_03.dds
+gfx/leaders/HEN/HEN_operative_01.dds
+gfx/leaders/HEN/HEN_operative_02.dds
+gfx/leaders/HEN/HEN_operative_03.dds
